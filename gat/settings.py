@@ -42,6 +42,7 @@ INSTALLED_APPS = [
 
     # third packages
     'rest_framework',
+    'django_filters',
 
     # my packages
     'game',
